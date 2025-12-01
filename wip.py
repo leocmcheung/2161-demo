@@ -4,5 +4,3 @@
 # Model training
 
 print('Work to be done!')
-
-# I am a wrong commit
