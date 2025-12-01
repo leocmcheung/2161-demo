@@ -1,2 +1,2 @@
 def ok():
-    print('Every is well')
+    print('Every is not well!')
